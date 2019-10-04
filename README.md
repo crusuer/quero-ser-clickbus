@@ -7,7 +7,7 @@ Spring Boot project to manage places (CRUD). This project is part of Click Bus c
 Before running the application you must ensure that the following dependencies are correctly installed:
 
 ```
-Java 11
+Java 8
 Maven 3.2.2
 ```
 
