@@ -35,7 +35,7 @@ mvn spring-boot:run
 # API endpoints
 These endpoints allow you to manage places. 
 - If you are running the app locally, you can consider `HOST` as *http://localhost:8080*
-- If you want the Cloud app, you can consider `HOST` as *http://developerchallenge.herokuapp.com*
+- If you want the Cloud app, you can consider `HOST` as *https://developerchallenge.herokuapp.com/*
 
 ## GET
 `HOST`[/findAll](#get-findAll) <br/>
